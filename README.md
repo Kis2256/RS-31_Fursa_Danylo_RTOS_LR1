@@ -46,6 +46,9 @@
 <img width="727" height="645" alt="image" src="https://github.com/user-attachments/assets/3bd71cd0-1006-49a9-bc00-629189b82022" />
 <img width="1573" height="813" alt="image" src="https://github.com/user-attachments/assets/90cce762-b715-4220-b17a-1ff7c9e3f442" />
 
+
+
 🎥 Демонстрація та результат:
+
 <img width="699" height="242" alt="image" src="https://github.com/user-attachments/assets/a16e5e13-e24f-4264-a541-69deb87cc335" />
 <img width="458" height="615" alt="image" src="https://github.com/user-attachments/assets/7e4fe874-67ac-4d68-ad9d-603db767026b" />
